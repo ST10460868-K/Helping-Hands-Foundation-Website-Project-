@@ -2,7 +2,7 @@
 
 **Name:** Kemoamogetse Morolo  
 **Student Number:** ST10460868  
-**Module:** Web Development 5020 
+**Module:** Web Development 5020
 **Lecturer:** S Malepe
 
 ---
