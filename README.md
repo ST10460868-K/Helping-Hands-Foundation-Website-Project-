@@ -1,9 +1,9 @@
 # Helping-Hands-Foundation-Website-Project-
 
-**Name:** [Your Full Name]  
-**Student Number:** [Your Student Number]  
-**Module:** [Module Name & Code]  
-**Lecturer:** [Lecturer’s Name]
+**Name:** Kemoamogetse Morolo  
+**Student Number:** ST10460868  
+**Module:** Web Development 5020 
+**Lecturer:** S Malepe
 
 ---
 
