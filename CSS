@@ -1,0 +1,37 @@
+
+---
+
+## CSS Styling & Responsive Design
+- **External Stylesheet (`style.css`)** applied consistently across all pages.  
+- **Base Styles:** Implemented reset, font family (`Segoe UI`), color scheme, and spacing rules.  
+- **Typography:** Scaled headings and paragraphs using `rem` units for responsiveness.  
+- **Layout:**  
+  - **Flexbox** for navigation and alignment.  
+  - **CSS Grid** for program cards and sections.  
+- **Visual Enhancements:** Colors, borders, shadows, and hover effects.  
+- **Responsive Design:**  
+  - Implemented **media queries** for desktop, tablet, and mobile (`1024px` and `768px` breakpoints).  
+  - Images styled with `max-width: 100%; height: auto;`.  
+  - Navigation adapts to vertical stacking on smaller screens.  
+  - Responsive images with `srcset` for optimized loading.  
+
+---
+
+## Changelog
+### Part 1 → Part 2
+- Created and linked **external CSS stylesheet**.  
+- Applied **base styles**.  
+- Styled typography and layout using **CSS Grid** and **Flexbox**.  
+- Added **hover effects** for buttons and links.  
+- Implemented **responsive design** with media queries.  
+- Converted some pixel units → **relative units** for scaling.  
+- Updated images with **responsive attributes**.    
+
+---
+
+## References
+- W3schools.com (no date) W3Schools Online Web Tutorials. Available at: https://www.w3schools.com/ (Accessed: 21 September 2025). 
+- FreeCodeCamp.org (no date) freecodecamp.org. Available at: https://www.freecodecamp.org/learn/2022/responsive-web-design (Accessed: 21 September 2025). .  
+- Prenzel, A. et al. (2025) CSS Grid Layout Guide: CSS-tricks, CSS. Available at: https://css-tricks.com/snippets/css/complete-guide-grid/ (Accessed: 21 September 2025).   
+
+---
