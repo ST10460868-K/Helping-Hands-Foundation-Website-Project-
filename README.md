@@ -489,9 +489,9 @@ This project was completed independently for WEDE5020 Part 3. All code was writt
 ## 📞 Support
 
 For questions or issues:
-- **Student Email:** st10460868@vcconnect.edu.za
-- **Lecturer:** WEDE5020 Course Instructor
-- **Institution:** Varsity College
+- **Student Email:** st10460868@rcconnect.edu.za
+- **Lecturer:** S Malepe
+- **Institution:** Rosebank College
 
 ---
 
