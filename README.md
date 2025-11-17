@@ -3,20 +3,7 @@
 
 **Student ID:** ST10460868  
 **Project:** Community Foundation Website  
-**Submission Date:** January 2025
-
----
-
-## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [Part 3 Enhancements](#part-3-enhancements)
-- [Technologies Used](#technologies-used)
-- [Features Implementation](#features-implementation)
-- [SEO Optimization](#seo-optimization)
-- [Installation & Setup](#installation--setup)
-- [File Structure](#file-structure)
-- [Changelog](#changelog)
-- [References](#references)
+**Submission Date:** 19 November 2025
 
 ---
 
@@ -230,7 +217,7 @@ The Helping Hands Foundation website is a comprehensive web platform for a ficti
 
 ## 📦 Installation & Setup
 
-### Prerequisites
+### Precondition
 - Modern web browser (Chrome, Firefox, Safari, Edge)
 - Text editor (VS Code recommended)
 - Git for version control
@@ -268,13 +255,6 @@ helping-hands-foundation/
 Replace local file paths with:
 - Relative paths: `images/food-program/image1.jpg`
 - OR use placeholder services: Unsplash URLs (as implemented)
-
-4. **Update Domain in SEO Files**
-In `robots.txt` and `sitemap.xml`, replace:
-```
-https://yourdomain.com
-```
-with your actual domain.
 
 5. **Test Locally**
 - Open `Index.html` in browser
@@ -315,76 +295,6 @@ Project Root/
         ├── image1.jpg
         └── image2.jpg
 ```
-
----
-
-## 📝 Changelog
-
-### Part 3 - January 2025
-
-#### Added
-- **[2025-01-15]** Interactive accordion components on Programs page
-- **[2025-01-15]** Tabbed interface for program statistics
-- **[2025-01-15]** Lightbox gallery with keyboard navigation
-- **[2025-01-15]** Interactive maps using Leaflet.js on Programs and Contact pages
-- **[2025-01-15]** Real-time search functionality for programs
-- **[2025-01-15]** Animated statistics counters with count-up effect
-- **[2025-01-15]** Comprehensive form validation on Enquiry page
-- **[2025-01-15]** Email integration on Contact form using mailto
-- **[2025-01-15]** Success modals with personalized responses
-- **[2025-01-15]** Character counters for text inputs
-- **[2025-01-15]** Conditional form fields based on user selection
-- **[2025-01-15]** Real-time validation with visual feedback (icons)
-- **[2025-01-15]** Smooth scroll functionality for navigation
-- **[2025-01-15]** SEO meta tags on all pages
-- **[2025-01-15]** robots.txt file for search engine crawlers
-- **[2025-01-15]** sitemap.xml for improved indexing
-- **[2025-01-15]** Open Graph meta tags for social sharing
-- **[2025-01-15]** Office hours display on Contact page
-- **[2025-01-15]** Social media link placeholders
-
-#### Changed
-- **[2025-01-15]** Updated image paths from local to Unsplash CDN
-- **[2025-01-15]** Enhanced program cards with gradient backgrounds
-- **[2025-01-15]** Improved form styling with better visual hierarchy
-- **[2025-01-15]** Optimized CSS for better performance
-- **[2025-01-15]** Enhanced mobile responsiveness across all pages
-- **[2025-01-15]** Updated navigation with active state indicators
-
-#### Fixed
-- **[2025-01-15]** Form validation edge cases (empty spaces)
-- **[2025-01-15]** Mobile menu overflow issues
-- **[2025-01-15]** Image aspect ratios in gallery
-- **[2025-01-15]** Map initialization timing issues
-- **[2025-01-15]** Phone number validation for SA format
-
-### Part 2 - December 2024 (Feedback Implemented)
-
-#### Fixed Based on Feedback
-- **[2024-12-20]** Corrected HTML semantic structure (proper heading hierarchy)
-- **[2024-12-20]** Fixed navigation links consistency across pages
-- **[2024-12-20]** Added missing alt attributes to images
-- **[2024-12-20]** Improved color contrast for accessibility (WCAG AA compliance)
-- **[2024-12-20]** Fixed footer alignment issues
-- **[2024-12-20]** Corrected form label associations
-- **[2024-12-20]** Added required attributes to form fields
-
-#### Changed
-- **[2024-12-20]** Restructured CSS for better maintainability
-- **[2024-12-20]** Updated About page content for clarity
-- **[2024-12-20]** Enhanced responsive breakpoints for tablets
-
-### Part 1 - November 2024
-
-#### Added
-- **[2024-11-15]** Initial project structure
-- **[2024-11-15]** Five HTML pages (Index, About, Programs, Enquiry, Contact)
-- **[2024-11-15]** Base CSS styling
-- **[2024-11-15]** Navigation menu
-- **[2024-11-15]** Basic form structures
-- **[2024-11-15]** Hero section on homepage
-- **[2024-11-15]** Program cards layout
-- **[2024-11-15]** Footer with copyright
 
 ---
 
@@ -501,6 +411,6 @@ This project is submitted for academic purposes as part of the WEDE5020 course. 
 
 ---
 
-**Last Updated:** January 15, 2025  
+**Last Updated:** November 16, 2025  
 **Version:** 3.0  
 **Student ID:** ST10460868
