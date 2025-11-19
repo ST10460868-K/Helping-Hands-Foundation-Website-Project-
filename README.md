@@ -227,7 +227,7 @@ The Helping Hands Foundation website is a comprehensive web platform for a ficti
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/yourusername/helping-hands-foundation.git
+[git clone https://github.com/yourusername/helping-hands-foundation.git](https://github.com/ST10460868-K/Helping-Hands-Foundation-Website-Project-.git)
 cd helping-hands-foundation
 ```
 
