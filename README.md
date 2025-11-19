@@ -227,7 +227,7 @@ The Helping Hands Foundation website is a comprehensive web platform for a ficti
 
 1. **Clone Repository**
 ```bash
-[git clone https://github.com/yourusername/helping-hands-foundation.git](https://github.com/ST10460868-K/Helping-Hands-Foundation-Website-Project-.git)
+https://github.com/ST10460868-K/Helping-Hands-Foundation-Website-Project-.git
 cd helping-hands-foundation
 ```
 
@@ -242,8 +242,6 @@ helping-hands-foundation/
 ├── Contact.html
 ├── Style.css
 ├── script.js
-├── robots.txt
-├── sitemap.xml
 ├── README.md
 └── images/
     ├── food-program/
@@ -280,8 +278,6 @@ Project Root/
 ├── Contact.html            # Contact form with email
 ├── Style.css               # Main stylesheet
 ├── script.js               # Global JavaScript
-├── robots.txt              # Search engine instructions
-├── sitemap.xml             # XML sitemap
 ├── README.md               # This file
 │
 └── images/                 # Image directory (to be created)
